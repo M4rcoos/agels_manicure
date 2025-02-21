@@ -6,7 +6,7 @@ export const BeautyServices = () => {
 
     return (
         <div className="bg-white p-6 flex flex-col items-center">
-            <h2 className="text-purple-dark text-2xl font-bold text-center">Tudo o que você precisa, no conforto da sua casa!</h2>
+            <h2 className="text-purple-dark text-2xl font-bold text-center font-baloo">Tudo o que você precisa, no conforto da sua casa!</h2>
             <p className="text-base-text text-center mt-2">Suas unhas impecáveis no conforto e comodidade da sua casa!</p>
 
             <div className="mt-6 flex flex-col md:flex-row items-center md:rounded-bl-[36px]  rounded-bl-[36px]   gap-6 bg-purple-light  rounded-tr-[36px] rounded-md">
