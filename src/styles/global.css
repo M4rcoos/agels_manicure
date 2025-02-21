@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #FAFAFA;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --primary: theme(colors.slate.900);
+    --secondary: theme(colors.slate.100);
+}
