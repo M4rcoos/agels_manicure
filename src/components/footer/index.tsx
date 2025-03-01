@@ -11,7 +11,7 @@ export function Footer() {
                         </ul>
                     </div>
 
-                    <a href="https://w.app/debora-nails" className=" text-center px-8 bg-green-400 text-white py-2 rounded-md hover:bg-green-400">WhatsApp</a>
+                    <a href="https://api.whatsapp.com/send?phone=5511957769723&text=Oie%20D%C3%A9bora%20tudo%20bem?%0AGostaria%20de%20agendar%20um%20horario!!" className=" text-center px-8 bg-green-400 text-white py-2 rounded-md hover:bg-green-400">WhatsApp</a>
 
                     <div className="medias-socias flex space-x-4">
                         <a href="https://www.facebook.com/debora.ketllyn.7/?locale=sw_KE&_rdr" className="text-gray-400 hover:text-white"><i className="fa fa-facebook">Facebook</i></a>
